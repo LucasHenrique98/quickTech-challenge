@@ -17,6 +17,10 @@
 
 
 <h2>Como rodar o projeto</h2>
+
 - Clone este repositório
+- 
 - Rode o comando "yarn"
+- 
 - Rode o comando "yarn start"
+- 
