@@ -16,3 +16,7 @@
 ![fdfdfdfd](https://user-images.githubusercontent.com/30630150/110829450-e4b8cc00-8276-11eb-88d6-98c9e2a2aecf.png)
 
 
+<h2>Como rodar o projeto</h2>
+- Clone este repositório
+- Rode o comando "yarn"
+- Rode o comando "yarn start"
