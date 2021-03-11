@@ -9,6 +9,7 @@
 - TypeScript
 - Styled Components
 - React Router
+- React
 
 
 
